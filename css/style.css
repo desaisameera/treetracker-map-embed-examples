@@ -1,0 +1,12 @@
+#iframe-div{
+  /*padding: 25px;*/
+}
+ #map-iframe{
+  width: 25vw;
+  height: 25vw;
+  float: left;
+  margin: 25px;
+}
+#general-text-div{
+  /*clear:left;*/
+}
